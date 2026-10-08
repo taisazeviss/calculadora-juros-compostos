@@ -17,7 +17,7 @@ Projeto desenvolvido para praticar HTML, CSS e JavaScript, criando uma calculado
 
 ## Acesse o projeto
 
-[Visualizar Calculadora Online] (https://taisazeviss.github.io/calculadora-juros-compostos/)
+[*Clique aqui para acessar a Calculadora de Juros Compostos*](https://taisaze viss.github.io/calculadora-juros-compostos/)
 
 
 ## 📚 Objetivo

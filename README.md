@@ -4,16 +4,20 @@ Projeto desenvolvido para praticar HTML, CSS e JavaScript, criando uma calculado
 
 ## 🚀 Funcionalidades
 
-* Informar o valor inicial (capital).
-* Inserir a taxa de juros.
-* Definir o tempo de rendimento.
-* Calcular o montante final com juros compostos.
+* Informar o valor inicial do investimento
+* Definir a taxa de juros
+* Escolher o período de aplicação
+* Calcular o montante final e os juros obtidos
 
 ## 🛠️ Tecnologias utilizadas
 
 * HTML5
 * CSS3
 * JavaScript
+
+## Acesse o projeto
+
+[Visualizar Calculadora Online]([COLE_AQUI_O_LINK_DO_SEU_SITE](https://taisazeviss.github.io/calculadora-juros-compostos/))
 
 
 ## 📚 Objetivo
